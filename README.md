@@ -482,36 +482,10 @@ and intelligent traffic signal management.
 
 ---
 
-## 📊 `06. GITHUB ANALYTICS`
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=linghurajpr&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
-  height="180"
-  alt="GitHub statistics"
-/>
-
-<br/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=linghurajpr&layout=compact&hide_border=true&theme=tokyonight"
-  height="180"
-  alt="Most used programming languages"
-/>
-
-<br/>
-
-<img
-  src="https://streak-stats.demolab.com?user=linghurajpr&theme=tokyonight&hide_border=true"
-  alt="GitHub contribution streak"
-/>
-
-</div>
 
 ---
 
-## 🎯 `07. CURRENT MISSION`
+## 🎯 `06. CURRENT MISSION`
 
 <div align="center">
 
@@ -527,7 +501,7 @@ and intelligent traffic signal management.
 
 ---
 
-## 🌐 `08. EXPLORE MY DIGITAL SPACE`
+## 🌐 `07. EXPLORE MY DIGITAL SPACE`
 
 <div align="center">
 
