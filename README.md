@@ -293,7 +293,7 @@ action interception, and runtime decision enforcement.
 
 <div align="center">
 
-<a href="https://github.com/Daaksh05/sentraflow-ai-agent-security">
+<a href="https://github.com/linghurajpr/sentraflow-ai-agent-security">
   <img src="https://img.shields.io/badge/EXPLORE_SENTRAFLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore SentraFlow"/>
 </a>
 
@@ -357,7 +357,7 @@ maintenance investigation and decision-making.
 
 <div align="center">
 
-<a href="https://github.com/Daaksh05/forgeguard-ai">
+<a href="https://github.com/linghurajpr/forgeguard-ai">
   <img src="https://img.shields.io/badge/EXPLORE_FORGEGUARD-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore ForgeGuard AI"/>
 </a>
 
@@ -387,7 +387,7 @@ and intelligent systems for infrastructure resilience.
 
 <div align="center">
 
-<a href="https://github.com/Daaksh05/aegis-nexus">
+<a href="https://github.com/linghurajpr/aegis-nexus">
   <img src="https://img.shields.io/badge/EXPLORE_AEGIS--NEXUS-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Aegis-Nexus"/>
 </a>
 
